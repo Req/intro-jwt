@@ -19,8 +19,7 @@
 
 ## LINKS
 
-https://tools.ietf.org/html/rfc7519
-https://jwt.io/#debugger-io
-https://stackoverflow.com/questions/27067251
-https://www.npmjs.com/package/jsonwebtoken
-https://blog.theodo.com/static/2c62be86b94ba3a1cba13510cd5b8a8a/50383/sso_flow_3-2.png
+- JWT standard: https://tools.ietf.org/html/rfc7519
+- JWT debugger tool: https://jwt.io/#debugger-io
+- JWT token storage in browser: https://stackoverflow.com/questions/27067251
+- JWT tool used: https://www.npmjs.com/package/jsonwebtoken
