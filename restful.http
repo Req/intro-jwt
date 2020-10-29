@@ -1,0 +1,15 @@
+# This file is used with the VSCode extension "REST Client" (humao.rest-client)
+# https://github.com/Huachao/vscode-restclient
+
+### Get root
+GET http://localhost:3042
+
+### Get token
+GET http://localhost:3042/token
+
+### Get secret without token
+GET http://localhost:3042/secret
+
+### Get secret with token
+GET http://localhost:3042/secret
+Authorization: Bearer foo.bar.baz
